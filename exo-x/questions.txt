@@ -1,0 +1,18 @@
+exo 5 : 
+
+Node JS est une plateforme de développement Javascript.
+
+
+exo 6 : 
+
+Le Backend est la partie non visble du dev mais qui est vitale pour le projet développé. 
+Il représente 80% du travail pour un site fonctionnel. 
+Son utilité est de relié toute la partie front à une base de donnée et de pouvoir la manipuler et modifier. 
+
+exo 7 : 
+
+Le localStorage stocke les données de manière persistante, même après la
+fermeture du navigateur, tandis que le sessionStorage stocke les données uniquement pour la durée 
+de la session en cours. De plus, les données stockées dans le localStorage sont partagées entre 
+tous les onglets et fenêtres d'un même domaine, alors que celles stockées dans le sessionStorage 
+sont spécifiques à un onglet ou une fenêtre.
